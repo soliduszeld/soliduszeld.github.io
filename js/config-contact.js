@@ -22,7 +22,7 @@
 
             // if the validator does not prevent form submit
             if (!e.isDefaultPrevented()) {
-                var url = "includes/contact-form.php";
+                var url = "https://zulf-back.herokuapp.com/v1/contact";
 
                 // POST values in the background the the script URL
                 $.ajax({
