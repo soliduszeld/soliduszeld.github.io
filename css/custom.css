@@ -51,6 +51,16 @@
     color: white;
 }
 
+.modal-primary .modal-header .au-btn {
+color: black
+}
+
+.modal-primary .modal-header .au-btn:hover{
+        background: #008b7d;
+        border-color: #008b7d;
+        color: white;
+}
+
 .section-footer .footer-social .list-item a:hover{
     background: #008b7d;
     color: white;
