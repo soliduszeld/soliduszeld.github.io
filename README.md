@@ -17,7 +17,7 @@ permalink: /index.html
 
 ## Project Finished So Far
 ###### Jobvacancy
-- [Jobagency](https://jobagency.id)
+- [Jobagency](https://jobagency.id) - running / under improvement
 
 ###### Education
 - [Simlitabmas](http://simlitabmas.ristekdikti.go.id/) - rollback w/ slightly changes
