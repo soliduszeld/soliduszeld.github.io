@@ -26,7 +26,6 @@ permalink: /index.html
 - Nalar Ventex
 
 ###### Company Profile
-- SMJG
 - [Behope Photography](http://behope.id)
 - [Pasar Komoditas Jakarta](http://pasarkomoditasjakarta.co.id/) - rollback
 
